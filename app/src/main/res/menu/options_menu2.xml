@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemRotateImg"
+        android:title="@string/img_rotate" />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/itemJellyFish"
+            android:checked="true"
+            android:title="@string/jellyfish" />
+        <item
+            android:id="@+id/itemMountain"
+            android:title="@string/mountain" />
+        <item
+            android:id="@+id/itemFlower"
+            android:title="@string/flower" />
+    </group>
+</menu>

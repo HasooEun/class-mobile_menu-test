@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Menu Test</string>
+    <string name="red">배경색 빨강</string>
+    <string name="blue">배경색 파랑</string>
+    <string name="yellow">배경색 노랑</string>
+    <string name="change">버튼 변경</string>
+    <string name="rotate">버튼 45도 회전</string>
+    <string name="scale">버튼 확대</string>
+    <string name="button1">Option Menu Example 2</string>
+    <string name="button2">Context Menu Example</string>
+    <string name="angle">각도입력</string>
+    <string name="angle_hint">각도를 숫자로 입력하세요</string>
+    <string name="img_rotate">이미지 회전</string>
+    <string name="jellyfish">해파리</string>
+    <string name="mountain">산</string>
+    <string name="flower">꽃</string>
+    <string name="hello">Hello world!</string>
+
+</resources>

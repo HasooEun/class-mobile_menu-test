@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item"
+        android:title="@string/red" />
+    <item
+        android:id="@+id/item2"
+        android:title="@string/blue" />
+    <item
+        android:id="@+id/item3"
+        android:title="@string/yellow" />
+    <item
+        android:id="@+id/item4"
+        android:title="@string/change">
+        <menu>
+            <item
+                android:id="@+id/menuRotate"
+                android:title="@string/rotate" />
+            <item
+                android:id="@+id/menuScale"
+                android:title="@string/scale" />
+        </menu>
+    </item>
+</menu>
